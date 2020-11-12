@@ -5,7 +5,6 @@
 #include "traffic_simulator.h"
 
 // Harjoitustyö kurssille Järjestelmäohjelmointi C++-kielellä
-// Tekijä: Ville Nygård 70229
 
 int main( int argc, const char** argv )
 {
